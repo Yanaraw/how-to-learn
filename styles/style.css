@@ -78,7 +78,6 @@ body {
   color:  #2f80ed;
 }
 
-
 .header__main-illustration{
   margin: 0;
   border: 0;
@@ -265,7 +264,6 @@ body {
 
 .table_theme_dark {
   margin-bottom: 90px;
-
 }
 
 .table__cell_theme_dark {
@@ -299,7 +297,6 @@ body {
   background-image: url(../images/logo_place_footer.svg);
   width: 183px;
   height: 35px;
-
 }
 
 .footer__author {
