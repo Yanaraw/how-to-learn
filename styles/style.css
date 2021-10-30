@@ -224,7 +224,7 @@
   font-size: 36px;
   line-height: 51px;
   font-weight: normal;
-  align-self: center; 
+  align-self: center;
   margin-bottom: 0;
 }
 
@@ -291,7 +291,7 @@
 }
 
 .footer__column_content_copyright {
-  display: flex;  
+  display: flex;
   flex-basis: 711px;
   justify-content: space-between;
   flex-direction: column;
