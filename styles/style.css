@@ -209,7 +209,7 @@
 }
 
 .feynman__title {
-  text-align: center  ;
+  text-align: center;
   margin-top: 100px;
   width: 648px;
   font-size: 120px;
@@ -259,7 +259,7 @@
   width: 877px;
   height: 877px;
   z-index: -1;
-  background-size: contain
+  background-size: contain;
 }
 
 .section-title_theme_dark {
